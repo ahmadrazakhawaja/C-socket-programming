@@ -3,7 +3,8 @@
 ## Project Description:
 This is a file downloader application built using socket programming in C language. The file size the application is expected to transfer is around 5-10GB. Inorder to transfer the file at the other end the program splits the the file data into equal size chunks and transfer the data through multiple threads.
 
-[index page](https://drive.google.com/file/d/11bQ0p1iMKSe4AQDJrf-cQJclQ5wYeVTX/view?usp=sharing)
+<img width="715" alt="c-image" src="https://user-images.githubusercontent.com/46644351/123847858-7a648e00-d930-11eb-9d48-98f334bca883.png">
+
 
 
 
